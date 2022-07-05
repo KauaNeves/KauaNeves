@@ -17,7 +17,6 @@ ___
   <img align="center" alt="Kauã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kauã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kauã-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="right" alt="Kauã-pic" height="150" style="border-radius:50px;" src="https://github.com/kauaneves.png?width=676&height=676">
 </div>
 
 ##
