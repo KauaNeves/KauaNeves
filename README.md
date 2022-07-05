@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @KauaNeves
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning ReactJS, GraphQL, TypeScript, TailwindCSS
+### Olá
 
-<!---
-KauaNeves/KauaNeves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou Kauã Neves, desenvolvedor front-end jr, apaixonado pela programação, gosto de desafios, estou sempre em busca de aprender coisas novas.
+___
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
+
+- 🚀Estou procurando organizações para colaborar como Jovem Aprendiz!
+- 🔭Atualmente estou trabalhando na Gama Academy
+- 👨‍💻Atualmente estou aprendendo e melhorando Node, Typescript e NextJs!
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kauã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kauã-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Kauã-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Kauã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kauã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kauã-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="right" alt="Kauã-pic" height="150" style="border-radius:50px;" src="https://github.com/kauaneves.png?width=676&height=676">
+</div>
+
+##
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
