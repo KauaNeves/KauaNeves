@@ -6,7 +6,7 @@ ___
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 
 - 🚀Estou procurando organizações para colaborar como Jovem Aprendiz!
-- 🔭Atualmente estou trabalhando na Gama Academy
+- 🔭Atualmente, Meu foco é virar full-stack Dev
 - 👨‍💻Atualmente estou aprendendo e melhorando Node, Typescript e NextJs!
 
 
